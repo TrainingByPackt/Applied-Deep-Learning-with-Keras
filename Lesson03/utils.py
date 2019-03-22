@@ -28,4 +28,6 @@ def plot_decision_boundary(pred_func, X, Y):
     class_1=plt.scatter(X[reds, 0], X[reds, 1], c="red", s=40, edgecolor='k')
     class_2=plt.scatter(X[blues, 0], X[blues, 1], c="blue", s=40, edgecolor='k')
     # add legend 
-    plt.legend((class_1, class_2, mpatches.Patch(color="red"), mpatches.Patch(color="blue")),('class 1','class 2',"Class 1 predicted region", "Class 2 predicted region")) 
+    plt.legend((class_1, class_2, mpatches.Patch(color="red"), mpatches.Patch(color="blue")),('No Purchase','Purchase',"No Purchase Class predicted region", "Purchase Class predicted region")) 
+    plt.xlabel('Age')
+    plt.ylabel('Salary')
