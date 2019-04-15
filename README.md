@@ -5,9 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Keras/pulls)
 
 # Applied Deep Learning with Keras
-Use Python and Keras to build practical deep learning applications that help prepare you for the future of applied artificial intelligence
-
-Applied Deep Learning with Keras takes you from a basic level of knowledge of machine learning and Python to an expert understanding of applying Keras to develop efficient deep learning solutions. To understand the difference between machine and deep learning, you will build a logistic regression model with scikitlearn and then with Keras. By building prediction models for several real-world
+Use Python and Keras to build practical deep learning applications that help prepare you for the future of applied artificial intelligence. Applied Deep Learning with Keras takes you from a basic level of knowledge of machine learning and Python to an expert understanding of applying Keras to develop efficient deep learning solutions. To understand the difference between machine and deep learning, you will build a logistic regression model with scikitlearn and then with Keras. By building prediction models for several real-world
 scenarios, such as disease prediction and customer churn prediction, you will dive deep into Keras and its many models. You will also gain knowledge about how to evaluate, optimize, and improve your models to gain maximum information. You will learn how to use Keras wrappers with scikit-learn and implement cross-validation techniques on your findings, and apply L1, L2, and dropout regularization techniques to improve the accuracy of your model. To improve accuracy, you will learn how to apply the null accuracy, precision, sensitivity, specificity, and AUC-ROC score techniques to fine-tune your model. Then, you will explore convolutional and recurrent neural networks in detail.
 
 ## What you will learn
