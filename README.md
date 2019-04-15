@@ -9,6 +9,7 @@ Use Python and Keras to build practical deep learning applications that help pre
 scenarios, such as disease prediction and customer churn prediction, you will dive deep into Keras and its many models. You will also gain knowledge about how to evaluate, optimize, and improve your models to gain maximum information. You will learn how to use Keras wrappers with scikit-learn and implement cross-validation techniques on your findings, and apply L1, L2, and dropout regularization techniques to improve the accuracy of your model. To improve accuracy, you will learn how to apply the null accuracy, precision, sensitivity, specificity, and AUC-ROC score techniques to fine-tune your model. Then, you will explore convolutional and recurrent neural networks in detail.
 
 ## What you will learn
+By the end of the course, you will be able to:
 * Understand the difference between single-layer and multi-layer neural network models
 * Use Keras to build simple logistic regression models, deep neural networks, recurrent neural networks, and convolutional neural networks
 * Apply L1, L2, and dropout regularization to improve the accuracy of your model
